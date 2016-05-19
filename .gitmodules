@@ -1,0 +1,3 @@
+[submodule "sgd-python3"]
+	path = sgd-python3
+	url = https://github.com/josiah14-MachineLearning/sgd-python3.git
